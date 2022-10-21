@@ -8,5 +8,6 @@ app.get('/',(req,res)=>{
     res.json({message:'Primeira rota criada com sucesso!'})
 })
 
-
+//porta
 app.listen(5000)
+
